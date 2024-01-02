@@ -16,3 +16,4 @@ Archieve/
 .*.lb
 *.fdb_latexmk
 *.synctex.gz
+*.pdf
